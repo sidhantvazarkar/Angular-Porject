@@ -1,0 +1,33 @@
+.dashboard-container {
+  padding: 40px;
+
+}
+
+table {
+  width: 100%;
+}
+
+.mat-column-number,
+.mat-column-price,
+.mat-column-24h,
+.mat-column-marketCap,
+.mat-column-supply,
+.mat-column-progress,
+.mat-column-nextUnlock,
+.mat-column-nextUnlockDate {
+  padding: 20px;
+}
+
+.mat-header-cell {
+  font-weight: bold;
+}
+
+.mat-elevation-z8 {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+table.mat-table tr:hover {
+  background-color: #c8c1c1; /* Dark gray background on hover */
+  cursor: pointer; /* Change cursor to pointer on hover */
+  color: white;
+}

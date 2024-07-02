@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Bitcoin",
+    "date": "2024-07-01",
+    "type": "buy",
+    "amount": 0.5,
+    "price": 100000,
+    "coin": "BTC",
+    "image": "assets/icons/bitcoin.png"
+  },
+  {
+    "id": 2,
+    "name": "Solana",
+    "date": "2024-07-02",
+    "type": "sell",
+    "amount": 1,
+    "price": 32342,
+    "coin": "SOA",
+    "image": "assets/icons/solana.png"
+  },
+  {
+    "id": 3,
+    "name": "Monero",
+    "date": "2024-07-01",
+    "type": "buy",
+    "amount": 0.5,
+    "price": 30300,
+    "coin": "MON",
+    "image": "assets/icons/monero.png"
+  },
+  {
+    "id": 4,
+    "name": "Litecoin",
+    "date": "2024-07-02",
+    "type": "sell",
+    "amount": 1,
+    "price": 2000,
+    "coin": "LTE",
+    "image": "assets/icons/litecoin.png"
+  },
+  {
+    "id": 5,
+    "name": "Ethereum",
+    "date": "2024-07-02",
+    "type": "sell",
+    "amount": 2,
+    "price": 31000,
+    "coin": "ETH",
+    "image": "assets/icons/etherium.png.png"
+  },
+  {
+    "id": 6,
+    "name": "Tether",
+    "date": "2024-07-02",
+    "type": "sell",
+    "amount": 1,
+    "price": 44000,
+    "coin": "USDT",
+    "image": "assets/icons/tethra.png"
+  }
+]
